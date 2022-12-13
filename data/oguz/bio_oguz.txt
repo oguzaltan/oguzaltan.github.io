@@ -1,1 +1,4 @@
-test bio
+I am an M.Sc. student in RWTH Aachen University in Electrical Engineering, Information Technology
+and Computer Engineering Department. My special interests are intelligent systems, robotics, artificial
+intelligence, machine learning, control theory and signal processing. I have both research and application
+oriented experiences supported by my educational background and internships.
