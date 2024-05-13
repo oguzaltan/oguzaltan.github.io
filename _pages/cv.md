@@ -9,13 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-See my full CV here: 
-
-[here](/files/Oguz_Altan_Resume.pdf)
+See my full CV [here](/files/Oguz_Altan_Resume.pdf).
 
 Education
 ======
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 * M.Sc. in Electrical Engineering, Information Technology and Computer Engineering at RWTH Aachen University, 2023
 * M.Sc. in Electrical and Electronics Engineering at Bilkent University, 2020
 
@@ -38,12 +35,20 @@ Work experience
   
 Skills
 ======
-* Skill 1
+<!-- * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
+
+| Category           | Skills                                                                                                  |
+|--------------------|---------------------------------------------------------------------------------------------------------|
+| Programming        | Python, MATLAB & Simulink, Java, LaTeX, Assembly, VHDL                                                  |
+| Libraries          | PyTorch, TensorFlow, Gym, Ray, SciPy, Scikit-Learn, Pillow                                              |
+| Tools & Software   | Linux, ROS, Git, Docker, VS Code, EAGLE, MS Office                                                      |
+| Languages          | English (Fluent), French (Fluent), German (Beginner), Italian (Beginner), Turkish (Native)              |
+
 
 Publications
 ======
