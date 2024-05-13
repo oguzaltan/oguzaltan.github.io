@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+See my full CV here: 
+
+[here](/files/Oguz_Altan_Resume.pdf)
+
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->

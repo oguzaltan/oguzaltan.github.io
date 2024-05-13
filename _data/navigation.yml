@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "CV"
-    # url: /cv/
-    url: /files/Oguz_Altan_Resume.pdf
+    url: /cv/
+    # url: /files/Oguz_Altan_Resume.pdf
 
   - title: "Publications"
     url: /publications/
