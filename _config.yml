@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "OA"
+title                    : "Oguz Altan"
 title_separator          : "-"
 name                     : &name "Oguz Altan"
 description              : &description "AI / Robotics Engineer | M.SC. graduate from RWTH Aachen University"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "oguz_altan.png"
   name             : "Oguz Altan"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : "AI / Robotics Engineer | M.SC. graduate from RWTH Aachen University"
   location         : "Aachen, Germany"
   employer         : "RWTH Aachen University"
   uri              : # URL
