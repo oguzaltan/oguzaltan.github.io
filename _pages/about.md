@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
-👨🏻‍💻 I am a M.Sc. gradute in Electrical Engineering, Information Technology and Computer Engineering from RWTH Aachen University.
+👨🏻‍💻 I am an M.Sc. gradute in Electrical Engineering, Information Technology and Computer Engineering from RWTH Aachen University.
 
-🔬 My research interests are in the intersection of AI and robotics, specifically in Reinforcement Learning and Deep Learning. 
+🔬 My research interests are in the intersection of AI and Robotics, specifically in Reinforcement Learning and Deep Learning. 
 
 <!-- 📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling. -->
 
