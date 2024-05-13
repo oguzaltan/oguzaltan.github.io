@@ -18,21 +18,32 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Machine Learning Engineering Intern and Working Student
+  * Siemens AG
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+* Research and Engineering Intern
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* Master’s Thesis
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
+* Seminar Paper
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Bachelor’s Final Project
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+
 Skills
 ======
 <!-- * Skill 1
@@ -42,8 +53,13 @@ Skills
   * Sub-skill 2.3
 * Skill 3 -->
 
-| Category           | Skills                                                                                                  |
+<!-- | Category           | Skills                                                                                                  |
 |--------------------|---------------------------------------------------------------------------------------------------------|
+| Programming        | Python, MATLAB & Simulink, Java, LaTeX, Assembly, VHDL                                                  |
+| Libraries          | PyTorch, TensorFlow, Gym, Ray, SciPy, Scikit-Learn, Pillow                                              |
+| Tools & Software   | Linux, ROS, Git, Docker, VS Code, EAGLE, MS Office                                                      |
+| Languages          | English (Fluent), French (Fluent), German (Beginner), Italian (Beginner), Turkish (Native)              | -->
+
 | Programming        | Python, MATLAB & Simulink, Java, LaTeX, Assembly, VHDL                                                  |
 | Libraries          | PyTorch, TensorFlow, Gym, Ray, SciPy, Scikit-Learn, Pillow                                              |
 | Tools & Software   | Linux, ROS, Git, Docker, VS Code, EAGLE, MS Office                                                      |
