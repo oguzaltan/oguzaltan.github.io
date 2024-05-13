@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* M.Sc. in Electrical Engineering, Information Technology and Computer Engineering at RWTH Aachen University, 2023
+* M.Sc. in Electrical and Electronics Engineering at Bilkent University, 2020
 
 Work experience
 ======
@@ -47,11 +47,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -61,4 +61,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* **IEEE Bilkent Student Branch Vice Chair:** Mentoring and guiding undergraduate students, administrating and
+supervising technical activities, lectures, conferences, and competitions (2019 - 2020)
+* **IEEE Bilkent Student Branch Robotics and Automation Society (RAS) Coordinator:** Teaching
+fundamentals of electronics and Arduino microcontroller programming to undergraduate students (2018 - 2019)
