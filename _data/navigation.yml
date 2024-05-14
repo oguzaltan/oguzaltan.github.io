@@ -4,8 +4,8 @@ main:
     url: /cv/
     # url: /files/Oguz_Altan_Resume.pdf
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+    # url: /publications/
 
   # - title: "Talks"
     # url: /talks/    
