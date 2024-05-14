@@ -8,13 +8,15 @@ redirect_from:
 ---
 
 <!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
-👨🏻‍💻 I am an M.Sc. gradute in Electrical Engineering, Information Technology and Computer Engineering from RWTH Aachen University.
+<!-- 👨🏻‍💻 I am an M.Sc. gradute in Electrical Engineering, Information Technology and Computer Engineering from RWTH Aachen University. -->
+<!-- 🔬 My research interests are in the intersection of AI and Robotics, specifically in Reinforcement Learning and Deep Learning.  -->
 
-🔬 My research interests are in the intersection of AI and Robotics, specifically in Reinforcement Learning and Deep Learning. 
+I am Oguz Altan, an **M.Sc.** graduate from **RWTH Aachen University** in the **Electrical Engineering and Information Technology Department**, with a major in **Systems and Automation**. Prior to my Master’s degree, I obtained my **B.Sc.** degree in **Electrical and Electronics Engineering** from **Bilkent University**. My research interests center around **AI and robotics**, particularly in **reinforcement learning**, **deep learning**, **multi-agent systems**, and **control theory**. Through courses, internships, and projects, as well as my Master’s thesis and Bachelor’s final year project, I have gained research and development experience in these fields.
 
-<!-- 📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling. -->
-
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+* I aim to conduct research that addresses three key questions: 
+  * How can we engineer mobile robots that perform tasks with minimal human assistance? 
+  * How can multiple mobile robots cooperate or compete to enhance their performances? 
+  * How can mobile robots be utilized for labor-intensive tasks while prioritizing human well-being, guided by the principles of safety and ethics, reminiscent of *Isaac Asimov’s Three Laws of Robotics*?
 
 # Selected Experience
 
