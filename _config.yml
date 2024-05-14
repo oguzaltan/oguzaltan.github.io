@@ -21,10 +21,10 @@ repository               : "oguzaltan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  # avatar           : "oguz_altan.png"
+  avatar           : "oguz_altan.png"
   name             : "Oguz Altan"
   # pronouns         : "he/him"  
-  bio              : "AI and Robotics Engineer | M.SC. graduate from RWTH Aachen University"
+  bio              : "AI and Robotics Engineer | M.Sc. graduate from RWTH Aachen University"
   location         : "Aachen, Germany"
   employer         : "RWTH Aachen University"
   uri              : # URL

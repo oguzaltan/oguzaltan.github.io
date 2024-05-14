@@ -28,7 +28,7 @@ Experience
 
 * **Machine Learning Engineering Intern and Working Student at Siemens AG, 2022**
   * Conducted research and development in **anomaly detection** for the **AI-integrated Wire Arc Additive Manufacturing (WAAMAI)** process, by implementing and evaluating various machine learning and deep learning algorithms.
-  * Based on **F1 and PR AUC scores**, found that **CNN-based autoencoders** perform best in detecting anomalies in WAAMAI process data.
+  * Based on **F1** and **PR AUC** scores, found that **CNN-based autoencoders** perform best in detecting anomalies in WAAMAI process data.
   * Supervisors: [Dr.-Ing. Raven Thomas Reisch](https://scholar.google.de/citations?user=HBc4t6QAAAAJ&hl=de) and [Dr. Philip Howell](https://www.birmingham.ac.uk/university/colleges/eps/eps-community/alumni-profiles-new/physics-astronomy/philip-howell)
 
 * **[Seminar Paper](https://github.com/oguzaltan/Mobile_Robotics_in_Disaster_Scenarios) at Institute for Man-Machine Interaction at RWTH Aachen University, 2021**
@@ -83,7 +83,5 @@ Skills
   
 Teaching and Mentoring 
 ======
-* **IEEE Bilkent Student Branch Vice Chair:** Mentoring and guiding undergraduate students, administrating and
-supervising technical activities, lectures, conferences, and competitions (2019 - 2020)
-* **IEEE Bilkent Student Branch Robotics and Automation Society (RAS) Coordinator:** Teaching
-fundamentals of electronics and Arduino microcontroller programming to undergraduate students (2018 - 2019)
+* **IEEE Bilkent Student Branch Vice Chair:** Mentoring and guiding undergraduate students, administrating and supervising technical activities, lectures, conferences, and competitions, 2019 - 2020
+* **IEEE Bilkent Student Branch Robotics and Automation Society (RAS) Coordinator:** Teaching fundamentals of electronics and Arduino microcontroller programming to undergraduate students, 2018 - 2019
