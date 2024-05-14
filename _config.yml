@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "OA"
+title                    : "Oguz Altan's Homepage"
 title_separator          : "-"
 name                     : &name "Oguz Altan"
 description              : &description "AI and Robotics Engineer | M.SC. graduate from RWTH Aachen University"
@@ -43,7 +43,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : 'oguzaltan'
-  leetcode         : 'oguzaltan'
+  # leetcode         : 'oguzaltan'
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
