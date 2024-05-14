@@ -65,10 +65,15 @@ Skills
 | Tools & Software   | Linux, ROS, Git, Docker, VS Code, EAGLE, MS Office                                                      |
 | Languages          | English (Fluent), French (Fluent), German (Beginner), Italian (Beginner), Turkish (Native)              | -->
 
-| Programming        | Python, MATLAB & Simulink, Java, LaTeX, Assembly, VHDL                                                  |
+**Programming:** Python, MATLAB & Simulink, Java, LaTeX, Assembly, VHDL
+**Libraries:** PyTorch, TensorFlow, Gym, Ray, SciPy, Scikit-Learn, Pillow
+**Tools & Software:** Linux, ROS, Git, Docker, VS Code, EAGLE, MS Office
+**Languages:** English (Fluent), French (Fluent), German (Beginner), Italian (Beginner), Turkish (Native)
+
+<!-- | Programming        | Python, MATLAB & Simulink, Java, LaTeX, Assembly, VHDL                                                  |
 | Libraries          | PyTorch, TensorFlow, Gym, Ray, SciPy, Scikit-Learn, Pillow                                              |
 | Tools & Software   | Linux, ROS, Git, Docker, VS Code, EAGLE, MS Office                                                      |
-| Languages          | English (Fluent), French (Fluent), German (Beginner), Italian (Beginner), Turkish (Native)              |
+| Languages          | English (Fluent), French (Fluent), German (Beginner), Italian (Beginner), Turkish (Native)              | -->
 
 
 <!-- Publications
