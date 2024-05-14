@@ -29,21 +29,21 @@ Experience
 * **Machine Learning Engineering Intern and Working Student at Siemens AG, 2022**
   * Conducted research and development in **anomaly detection** for the **AI-integrated Wire Arc Additive Manufacturing (WAAMAI)** process, by implementing and evaluating various machine learning and deep learning algorithms.
   * Based on **F1 and PR AUC scores**, found that **CNN-based autoencoders** perform best in detecting anomalies in WAAMAI process data.
-  * *Supervisors:* Dr.-Ing. Raven Thomas Reisch and Dr. Philip Howell
+  * *Supervisors:* [Dr.-Ing. Raven Thomas Reisch](https://scholar.google.de/citations?user=HBc4t6QAAAAJ&hl=de) and [Dr. Philip Howell](https://www.birmingham.ac.uk/university/colleges/eps/eps-community/alumni-profiles-new/physics-astronomy/philip-howell)
 
-* **Seminar Paper at Institute for Man-Machine Interaction at RWTH Aachen University, 2021**
+* **[Seminar Paper](https://github.com/oguzaltan/Mobile_Robotics_in_Disaster_Scenarios) at Institute for Man-Machine Interaction at RWTH Aachen University, 2021**
   * *Title:* Mobile Robotics in Disaster Scenarios
   * Written within the scope of seminar course *Current Concepts and Trends in Robotics and Simulation Science*.
-  * *Supervisor:* David Böken, M. Sc.
+  * *Supervisor:* [David Böken, M. Sc.](https://www.mmi.rwth-aachen.de/)
 
-* **Bachelor’s Final Project at Bilkent University, 2020**
+* **[Bachelor’s Final Project](https://github.com/oguzaltan/Tag-A-Long-Robot) at Bilkent University, 2020**
   * *Title:* Accompanying Humans and Achieving Designated Tasks with Autonomous Mobile Robots
   * Developed an **autonomous land robot** with **ROS**, featuring **LIDAR** and **YOLO** for **object tracking**. The robot **tracks humans**, **evades obstacles**, and **ensures smooth traversal across diverse terrains**. Conducted simulations in **ROS** with **Gazebo** integration to validate system performance.
-  * *Supervisor:* Dr. Aykut Koc
+  * *Supervisor:* [Dr. Aykut Koc](http://aykut.koc.bilkent.edu.tr/)
 
 * **Research and Engineering Intern at Fraunhofer IIS. 2019**
   * **Redesigned** and **programmed** **wireless embedded systems**, which are used by members and undergraduate students of the *IoT and Embedded Electronics teams of FAU Erlangen-Nürnberg and Fraunhofer IIS*.
-  * *Supervisors:* Sally Nafie, M. Sc.
+  * *Supervisors:* [Sally Nafie, M. Sc.](https://www.like.tf.fau.de/person/m-sc-sally-nafie/)
 
 * **Research and Engineering Intern at TUBITAK Space Technologies Research Institute, 2018**
   * Designed a circuit for **transmitting analog signals through a noisy medium**, and implemented **analog-to-digital signal conversion**. Through simulation tools, validated that the output signal exhibits **minimal noise**.
@@ -58,23 +58,10 @@ Skills
   * Sub-skill 2.3
 * Skill 3 -->
 
-<!-- | Category           | Skills                                                                                                  |
-|--------------------|---------------------------------------------------------------------------------------------------------|
-| Programming        | Python, MATLAB & Simulink, Java, LaTeX, Assembly, VHDL                                                  |
-| Libraries          | PyTorch, TensorFlow, Gym, Ray, SciPy, Scikit-Learn, Pillow                                              |
-| Tools & Software   | Linux, ROS, Git, Docker, VS Code, EAGLE, MS Office                                                      |
-| Languages          | English (Fluent), French (Fluent), German (Beginner), Italian (Beginner), Turkish (Native)              | -->
-
 * **Programming:** Python, MATLAB & Simulink, Java, LaTeX, Assembly, VHDL
 * **Libraries:** PyTorch, TensorFlow, Gym, Ray, SciPy, Scikit-Learn, Pillow
 * **Tools & Software:** Linux, ROS, Git, Docker, VS Code, EAGLE, MS Office
 * **Languages:** English (Fluent), French (Fluent), German (Beginner), Italian (Beginner), Turkish (Native)
-
-<!-- | Programming        | Python, MATLAB & Simulink, Java, LaTeX, Assembly, VHDL                                                  |
-| Libraries          | PyTorch, TensorFlow, Gym, Ray, SciPy, Scikit-Learn, Pillow                                              |
-| Tools & Software   | Linux, ROS, Git, Docker, VS Code, EAGLE, MS Office                                                      |
-| Languages          | English (Fluent), French (Fluent), German (Beginner), Italian (Beginner), Turkish (Native)              | -->
-
 
 <!-- Publications
 ======

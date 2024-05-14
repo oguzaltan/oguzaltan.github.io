@@ -13,16 +13,16 @@ redirect_from:
 
 Hi there! I’m Oguz and welcome to my homepage :)
 
-I am Oguz Altan, an **M.Sc.** graduate from **RWTH Aachen University** in the **Electrical Engineering and Information Technology Department**, with a major in **Systems and Automation**. Prior to my Master’s degree, I obtained my **B.Sc.** degree in **Electrical and Electronics Engineering** from **Bilkent University**. My research interests center around **AI and robotics**, particularly in **reinforcement learning**, **deep learning**, **multi-agent systems**, and **control theory**. Through courses, internships, and projects, as well as my Master’s thesis and Bachelor’s final year project, I have gained research and development experience in these fields.
+I am Oguz Altan, an **M.Sc.** graduate from **RWTH Aachen University** in the **[Electrical Engineering and Information Technology Department](https://www.rwth-aachen.de/cms/root/studium/vor-dem-studium/studiengaenge/liste-aktuelle-studiengaenge/studiengangbeschreibung/~bngt/elektrotechnik-informationstechnik-un/?lidx=1)**, with a major in **Systems and Automation**. Prior to my Master’s degree, I obtained my **B.Sc.** degree in **[Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/)** from **Bilkent University**. My research interests center around **AI and robotics**, particularly in **reinforcement learning**, **deep learning**, **multi-agent systems**, and **control theory**. Through courses, internships, and projects, as well as my Master’s thesis and Bachelor’s final year project, I have gained research and development experience in these fields.
 
-My academic journey includes **optimizing UAV trajectories using multi-agent deep reinforcement learning** for my **Master's thesis** at **Fraunhofer FKIE** and developing an **autonomous land robot** for my **Bachelor's final year project**. Additionally, I gained valuable experience in **machine and deep learning**, **automation**, and **process monitoring** through **Siemens'** **AI-integrated Wire Arc Additive Manufacturing project**, as well as **embedded systems** during my internship at **Fraunhofer IIS**.
+My academic journey includes **optimizing UAV trajectories using multi-agent deep reinforcement learning** for my **[Master's Thesis](https://github.com/oguzaltan/Tracking-and-Evasion-using-Co-Training-with-Context-Knowledge)** at **[Fraunhofer FKIE](https://www.fkie.fraunhofer.de/en.html)** and developing an **autonomous land robot** for my **[Bachelor’s final year project](https://github.com/oguzaltan/Tag-A-Long-Robot)**. Additionally, I gained valuable experience in **machine and deep learning**, **automation**, and **process monitoring** through **Siemens'** **[AI-integrated Wire Arc Additive Manufacturing project](https://blog.siemens.com/2021/12/light-years-ahead-with-the-arc/)**, as well as **embedded systems** during my internship at **[Fraunhofer IIS](https://www.iis.fraunhofer.de/en.html)**.
 
 <!-- I aim to conduct research that addresses three key questions: 
 * How can we engineer mobile robots that perform tasks with minimal human assistance? 
 * How can multiple mobile robots cooperate or compete to enhance their performances? 
 * How can mobile robots be utilized for labor-intensive tasks while prioritizing human well-being, guided by the principles of safety and ethics, reminiscent of *Isaac Asimov’s Three Laws of Robotics*? -->
 
-To see my projects, please visit my [GitHub profile](https://github.com/oguzaltan).  
+Please visit my [GitHub profile](https://github.com/oguzaltan) to see my projects.  
 
 <!-- # Selected Experience -->
 
