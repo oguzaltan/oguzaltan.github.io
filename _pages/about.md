@@ -11,16 +11,16 @@ redirect_from:
 <!-- 👨🏻‍💻 I am an M.Sc. gradute in Electrical Engineering, Information Technology and Computer Engineering from RWTH Aachen University. -->
 <!-- 🔬 My research interests are in the intersection of AI and Robotics, specifically in Reinforcement Learning and Deep Learning.  -->
 
+Hi there! I’m Oguz and welcome to my homepage :)
+
 I am Oguz Altan, an **M.Sc.** graduate from **RWTH Aachen University** in the **Electrical Engineering and Information Technology Department**, with a major in **Systems and Automation**. Prior to my Master’s degree, I obtained my **B.Sc.** degree in **Electrical and Electronics Engineering** from **Bilkent University**. My research interests center around **AI and robotics**, particularly in **reinforcement learning**, **deep learning**, **multi-agent systems**, and **control theory**. Through courses, internships, and projects, as well as my Master’s thesis and Bachelor’s final year project, I have gained research and development experience in these fields.
 
 My academic journey includes **optimizing UAV trajectories using multi-agent deep reinforcement learning** for my **Master's thesis** at **Fraunhofer FKIE** and developing an **autonomous land robot** for my **Bachelor's final year project**. Additionally, I gained valuable experience in **machine and deep learning**, **automation**, and **process monitoring** through **Siemens'** **AI-integrated Wire Arc Additive Manufacturing project**, as well as **embedded systems** during my internship at **Fraunhofer IIS**.
 
-I aim to conduct research that addresses three key questions: 
+<!-- I aim to conduct research that addresses three key questions: 
 * How can we engineer mobile robots that perform tasks with minimal human assistance? 
 * How can multiple mobile robots cooperate or compete to enhance their performances? 
-* How can mobile robots be utilized for labor-intensive tasks while prioritizing human well-being, guided by the principles of safety and ethics, reminiscent of *Isaac Asimov’s Three Laws of Robotics*?
-
-
+* How can mobile robots be utilized for labor-intensive tasks while prioritizing human well-being, guided by the principles of safety and ethics, reminiscent of *Isaac Asimov’s Three Laws of Robotics*? -->
 
 To see my projects, please visit my [GitHub profile](https://github.com/oguzaltan).  
 

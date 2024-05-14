@@ -19,12 +19,12 @@ Education
 Experience
 ======
 
-* **Master’s Thesis at Fraunhofer FKIE & INDA at RWTH Aachen University, 2023**
+* **[Master's Thesis](https://github.com/oguzaltan/Tracking-and-Evasion-using-Co-Training-with-Context-Knowledge) at Fraunhofer FKIE & INDA at RWTH Aachen University, 2023**
   * *Title:* Tracking and Evasion using Co-Training with Context Knowledge
   * Researched **UAV trajectory optimization** for **precise target tracking** in urban environments. 
   * Developed a **multi-agent deep reinforcement learning** system with **game-theoretic co-training**, implemented **procedural map generation** to produce urban map images, and integrated a **CNN model into RL pipeline** to leverage map images as a set observations for agents. 
   <!-- * Demonstrated improved agent contextual awareness in urban environments, enabling effective tracking and evasion behaviors. -->
-  * *Supervisors:* Prof. Dr.-Ing. Anke Schmeink and Dr. Alexander Charlish
+  * *Supervisors:* [Prof. Dr.-Ing. Anke Schmeink](https://www.inda.rwth-aachen.de/cms/INDA/Die-Organisationseinheit/Team/~bgmvjw/Anke-Schmeink/lidx/1/) and [Dr. Alexander Charlish](https://www.inda.rwth-aachen.de/cms/INDA/Die-Organisationseinheit/Team/~bgmuwy/Alexander-Charlish/lidx/1/)
 
 * **Machine Learning Engineering Intern and Working Student at Siemens AG, 2022**
   * Conducted research and development in **anomaly detection** for the **AI-integrated Wire Arc Additive Manufacturing (WAAMAI)** process, by implementing and evaluating various machine learning and deep learning algorithms.
