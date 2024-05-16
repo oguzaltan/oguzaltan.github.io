@@ -41,7 +41,7 @@ Experience
   * Developed an **autonomous land robot** with **ROS**, featuring **LIDAR** and **YOLO** for **object tracking**. The robot **tracks humans**, **evades obstacles**, and **ensures smooth traversal across diverse terrains**. Conducted simulations in **ROS** with **Gazebo** integration to validate system performance.
   * Supervisor: [Dr. Aykut Koc](http://aykut.koc.bilkent.edu.tr/)
 
-* **Research and Engineering Intern at Fraunhofer IIS. 2019**
+* **Research and Engineering Intern at Fraunhofer IIS, 2019**
   * **Redesigned** and **programmed** **wireless embedded systems**, which are used by members and undergraduate students of the *IoT and Embedded Electronics teams of FAU Erlangen-Nürnberg and Fraunhofer IIS*.
   * Supervisors: [Sally Nafie, M. Sc.](https://www.like.tf.fau.de/person/m-sc-sally-nafie/)
 
