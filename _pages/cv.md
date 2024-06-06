@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This page contains an overview of my curriculum vitae. See my full CV [here](/files/Oguz_Altan_Resume.pdf).
+This page contains an overview of my curriculum vitae. See my full CV [here](/files/Resume_Oguz_Altan.pdf).
 
 Education
 ======
