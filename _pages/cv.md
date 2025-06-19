@@ -14,7 +14,7 @@ This page contains an overview of my curriculum vitae. See my full CV [here](/fi
 Experience
 ======
 
-* **Robotics Researcher / Wissenschaftlicher Mitarbeiter at the **[University of Applied Sciences (FHDW) Paderborn](https://www.fhdw.de/en)**, 2024-Present**
+* **Robotics Researcher / Wissenschaftlicher Mitarbeiter at the [University of Applied Sciences (FHDW) Paderborn](https://www.fhdw.de/en), 2024-Present**
   * Title: **SilvaBot - Fully Autonomous Robot for Scalable, Climate-Change-Adapted Forest Conversion**
   * Autonomously reforesting areas affected by climate change and wildfires through **ground and aerial robots** using **swarm intelligence**.
   * Research and development of **robotics software architectures**, focusing on **swarm behavior, multi-sensor fusion, task and motion planning, navigation, mapping, perception**, and **obstacle avoidance algorithms** for autonomous ground and aerial robots operating in **dynamic environments**.
