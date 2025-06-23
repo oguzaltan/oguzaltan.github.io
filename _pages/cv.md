@@ -66,7 +66,6 @@ Skills
 * Skill 3 -->
 
 * **Programming:** Python, C++, MATLAB, SQL, Java, LaTeX, VHDL, Assembly
-* **Libraries:** PyTorch, TensorFlow, Gym, Ray, SciPy, Scikit-Learn, Pillow
 * **Robotics & Simulation:** ROS 2, Gazebo, Simulink, RViz, Nav2, SLAM Toolbox, BehaviorTree.CPP
 * **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-Learn, Ray, OpenAI Gym, NumPy, Pandas, SciPy
 * **Tools & Software** Linux, Git, Docker, VS Code, EAGLE, MS Office
