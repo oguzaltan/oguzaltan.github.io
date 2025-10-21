@@ -11,21 +11,58 @@ redirect_from:
 <!-- 👨🏻‍💻 I am an M.Sc. gradute in Electrical Engineering, Information Technology and Computer Engineering from RWTH Aachen University. -->
 <!-- 🔬 My research interests are in the intersection of AI and Robotics, specifically in Reinforcement Learning and Deep Learning.  -->
 
-Hi there. I’m **Oguz**. Welcome to my homepage!
+## 👋 Hi there, I'm **Oguz Altan**. Welcome to my homepage!
 
-I am a researcher at the **[University of Applied Sciences (FHDW) Paderborn](https://www.fhdw.de/en)**, where I work on  **[SilvaBot - Fully Autonomous Robot for Scalable, Climate-Change-Adapted Forest Conversion](https://www.fhdw.de/en/forschungsberichte/silvabot)** project. As a **robotics software engineer**, I contribute to the development of **autonomous systems** for **ground and aerial robots** aimed at **reforesting** areas affected by climate change and wildfires. Our approach leverages **swarm intelligence** to enable scalable, efficient, and adaptive forest restoration.
+I am a researcher at the **[University of Applied Sciences (FHDW) Paderborn](https://www.fhdw.de/en)**, where I work on  **[SilvaBot - Fully Autonomous Robot for Scalable, Climate-Change-Adapted Forest Conversion](https://www.fhdw.de/en/forschungsberichte/silvabot)** project. As a **robotics researcher and engineer**, I contribute to the development of **autonomous systems** for **ground and aerial robots** aimed at **reforesting** areas affected by climate change and wildfires. I focus on the development of robotics software and hardware architectures.
 
 I completed my **M.Sc.** at **RWTH Aachen University** in the **[Electrical Engineering and Information Technology Department](https://www.rwth-aachen.de/cms/root/studium/vor-dem-studium/studiengaenge/liste-aktuelle-studiengaenge/studiengangbeschreibung/~bngt/elektrotechnik-informationstechnik-un/?lidx=1)**, with a major in **Systems and Automation**. Prior to my Master’s degree, I obtained my **B.Sc.** degree in **[Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/)** from **Bilkent University**. My research interests center around **AI and robotics**, particularly in **machine learning**, **reinforcement learning**, **deep learning**, **multi-agent systems**, and **control theory**. Through courses, internships, and projects, as well as my Master’s thesis and Bachelor’s final year project, I have gained research and development experience in these fields.
 
 My academic and professional journey includes **optimizing UAV trajectories using multi-agent deep reinforcement learning** for my **[Master's Thesis](https://github.com/oguzaltan/Tracking-and-Evasion-using-Co-Training-with-Context-Knowledge)** at **[Fraunhofer FKIE](https://www.fkie.fraunhofer.de/en.html)** and developing an **autonomous land robot** for my **[Bachelor’s final year project](https://github.com/oguzaltan/Tag-A-Long-Robot)**. Additionally, I gained valuable experience in **machine and deep learning**, **automation**, and **process monitoring** through **Siemens'** **[AI-integrated Wire Arc Additive Manufacturing project](https://blog.siemens.com/2021/12/light-years-ahead-with-the-arc/)**, as well as **embedded systems** during my internship at **[Fraunhofer IIS](https://www.iis.fraunhofer.de/en.html)**.
 
+Please visit my [GitHub profile](https://github.com/oguzaltan) to see my projects. 
+
+---
+
+## 📚 Areas of Interest
+- **Machine Learning & AI:** Deep and reinforcement learning, multi-agent systems, and adaptive intelligence for autonomous decision-making.
+- **Robotics Software Engineering:** Autonomy architectures with multi-sensor fusion, planning, navigation, mapping, perception, swarm intelligence, and obstacle avoidance.
+- **Control & Optimization:** Control theory, trajectory optimization, and learning-based control for robust and efficient robot behavior.
+- **Software Development:** Writing scalable, modular, and maintainable software for real-world robotics and AI systems.
+
+---
+
+## 🛠️ Tools & Tech
+
+| Category         | Technologies |
+|------------------|--------------|
+| **Programming**    | Python, C++, MATLAB, SQL, Java, LaTeX, VHDL, Assembly |
+| **Robotics**     | ROS 2, Gazebo, Simulink, RViz, Nav2, SLAM Toolbox, BehaviorTree.CPP |
+| **AI & Machine Learning**      | PyTorch, TensorFlow, Scikit-Learn, Ray, OpenAI Gym, NumPy, Pandas, SciPy |
+| **Tools & Software**        | Linux, Git, Docker, EAGLE |
+| **Embedded**     | NVIDIA Jetson, Pixhawk |
+
+---
+
+## 📫 Let's Connect
+- **Email:** oguzaltan148@gmail.com or oguz.altan@fhdw.de
+- **LinkedIn:** [linkedin.com/in/oguzaltan](linkedin.com/in/oguzaltan)
+- **Personal Website:** [oguzaltan.github.io](https://oguzaltan.github.io/) 
+
+---
+
+<p align="center">
+  <em>“Actions such as his could come only from a robot, or from a very honorable and decent human being.<br>
+  But you see, you can’t differentiate between a robot and the very best of humans.”</em><br>
+  — Isaac Asimov, <em>I, Robot</em>
+</p>
+
+---
+
 <!-- I aim to conduct research that addresses three key questions: 
 * How can we engineer mobile robots that perform tasks with minimal human assistance? 
 * How can multiple mobile robots cooperate or compete to enhance their performances? 
 * How can mobile robots be utilized for labor-intensive tasks while prioritizing human well-being, guided by the principles of safety and ethics, reminiscent of *Isaac Asimov’s Three Laws of Robotics*? -->
-
-Please visit my [GitHub profile](https://github.com/oguzaltan) to see my projects.  
-
+ 
 <!-- # Selected Experience -->
 
 <!-- ## 🤖 Open Source Contributions
