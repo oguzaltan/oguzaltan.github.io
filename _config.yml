@@ -21,7 +21,7 @@ repository               : "oguzaltan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "oguz_altan.png"
+  avatar           : "oguz_altan.jpg"
   name             : "Oguz Altan"
   # pronouns         : "he/him"  
   bio              : "AI and Robotics Researcher"
